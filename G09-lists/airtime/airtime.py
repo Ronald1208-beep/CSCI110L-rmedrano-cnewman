@@ -1,7 +1,4 @@
-# num = int(input())
-# heights = []
-# for i in range(num):
-#     heights.append(int(input()))
+# We did not use any outside resources
 
 def airtime(heights):
     count = 0
